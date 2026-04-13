@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QuickPOS — Web-Based Point of Sale System
 > Built with PHP + MySQL + Bootstrap 5 | Runs on XAMPP/WAMP
 
@@ -123,3 +124,5 @@ You'll be redirected to the login page.
 ---
 
 *Built by Asorbono Dominic | QuickPOS v1.0*
+
+
